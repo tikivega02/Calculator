@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>calculator.png</file>
+    </qresource>
+</RCC>
